@@ -22,12 +22,12 @@ organizations:
     url: https://www.lmfpucrio.com
 education:
   courses:
-    - course: Programação de Jogos Digitais
-      institution: CEJLL - NAVE
-      year: 2017
     - course: Ciências Econômicas
       institution: PUC-Rio
       year: 2022
+    - course: Programação de Jogos Digitais
+      institution: CEJLL - NAVE
+      year: 2017
 email: davidmedeiros.econ@gmail.com
 superuser: true
 highlight_name: false
